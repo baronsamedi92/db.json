@@ -1,11 +1,8 @@
 {
-  "posts": [
+"signupUsersList": [
     {
-      "id": 1,
-      "title": "hello"
+      "email": "bolu@gmail.com",
+      "password": "1234"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
