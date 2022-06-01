@@ -1,8 +1,11 @@
 {
-"signupUsersList": [
+  "signupUsersList": [
     {
-      "email": "bolu@gmail.com",
-      "password": "1234"
+      "email": 1,
+      "password": "hello"
     }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
